@@ -3,8 +3,8 @@ This is a django based web app which classifies any text or a comment as positiv
 
 ## Flow Chart of Sentiment Analysis
 
-<!-- ![sentiment](https://user-images.githubusercontent.com/65210477/134039933-ba534e31-e84c-40ad-8c46-c05b6f7b6727.jpg)
- -->
+![sentiment](https://user-images.githubusercontent.com/65210477/134039933-ba534e31-e84c-40ad-8c46-c05b6f7b6727.jpg)
+
 
 
 ## Screenshots of the project
