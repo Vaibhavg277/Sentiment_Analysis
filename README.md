@@ -9,10 +9,13 @@ This is a django based web app which classifies any text or a comment as positiv
 
 ## Screenshots of the project
 
-![Screenshot (34)](https://user-images.githubusercontent.com/65210477/134038746-ae65ee32-997b-4bd2-ba86-03d294e37ca7.png)
+![pic0](https://user-images.githubusercontent.com/65787469/142767876-bf0337c4-b728-4c93-aa30-32ca6834fc5c.JPG)
 
-![Screenshot (35)](https://user-images.githubusercontent.com/65210477/134038764-b676df19-c274-4c94-b99d-93d5cb99a5ef.png)
+![pic1](https://user-images.githubusercontent.com/65787469/142767915-927b5f07-8885-4c8e-9b61-a07062c45afc.JPG)
 
-![Screenshot (36)](https://user-images.githubusercontent.com/65210477/134038795-b679ce17-ff64-4a49-824f-1ac46b7bc55a.png)
+![pic2](https://user-images.githubusercontent.com/65787469/142767934-c44e959f-af25-4f99-a2be-74fcc4b3a9b3.JPG)
 
-![Screenshot (37)](https://user-images.githubusercontent.com/65210477/134038818-e565f7be-72d8-4cef-9afb-ab0ef39d9bb7.png)
+![pic3](https://user-images.githubusercontent.com/65787469/142767938-248cd0f3-5a6d-4b68-831e-9abc11b6c2c3.JPG)
+
+
+
